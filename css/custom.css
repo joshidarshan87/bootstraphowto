@@ -1,0 +1,31 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-inverse{
+	background: rgba(0,0,0,0.75);
+}
+
+.call-to-action{
+	background-color: rgba(0,0,0,0.4);
+}
+
+.glyphicon-large {
+	font-size: 100px;
+}
+
+.services{
+	padding: 0 0 20px 0;
+}
+
+.item{
+	max-height: 550px;
+}
+
+.ftr{
+	padding: 10px;
+	background: #3E4649; 
+	color:white; 
+	padding: 50px; 
+	height: 200px;
+}
